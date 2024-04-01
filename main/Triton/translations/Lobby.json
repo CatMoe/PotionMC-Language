@@ -29,12 +29,69 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.scoreboard.profile.coins",
+      "key": "net.miaomoe.ppc.lobby.item.serverselector",
       "type": "text",
       "languages": {
-        "en_GB": "Coins",
-        "zh_CN": "硬币"
+        "en_GB": "Server Selector",
+        "zh_CN": "服务器选择"
+      }
+    },
+    {
+      "key": "net.miaomoe.ppc.lobby.item.profile",
+      "type": "text",
+      "languages": {
+        "en_GB": "My Profile",
+        "zh_CN": "账户信息"
+      }
+    },
+    {
+      "key": "net.miaomoe.ppc.lobby.item.pvpsword",
+      "type": "text",
+      "languages": {
+        "en_GB": "PvP Sword",
+        "zh_CN": "PvP 剑"
+      }
+    },
+    {
+      "key": "net.miaomoe.ppc.lobby.item.Cosmetic",
+      "type": "text",
+      "languages": {
+        "en_GB": "Cosmetic & Store",
+        "zh_CN": "装饰品 & 商店"
+      }
+    },
+    {
+      "key": "net.miaomoe.ppc.lobby.item.teleportbow",
+      "type": "text",
+      "languages": {
+        "en_GB": "Teleport Bow",
+        "zh_CN": "传送弓"
+      }
+    },
+    {
+      "key": "net.miaomoe.ppc.lobby.item.hideplayer",
+      "type": "text",
+      "languages": {
+        "en_GB": "Hide Players",
+        "zh_CN": "隐藏玩家"
+      }
+    },
+    {
+      "key": "net.miaomoe.ppc.lobby.item.g-rightclick",
+      "type": "text",
+      "languages": {
+        "en_GB": "(Right Click)",
+        "zh_CN": "(右键打开)"
+      }
+    },
+    {
+      "key": "net.miaomoe.ppc.lobby.item.g-holdtouse",
+      "type": "text",
+      "languages": {
+        "en_GB": "(Hold to Use)",
+        "zh_CN": "(手持使用)"
       }
     }
+
   ]
 }
