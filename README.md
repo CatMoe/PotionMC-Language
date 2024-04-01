@@ -2,7 +2,7 @@ ___
 <!--suppress HtmlDeprecatedAttribute -->
 <div align="center">
   <a href="https://github.com/CatMoe/MoeFilter">
-    <img src="https://github.com/CatMoe/FantasyAntiCheat/blob/plugin/Fantasy_ba-stylelogo.png" alt="ba-icon">
+    <img src="https://raw.githubusercontent.com/CatMoe/PotionMC_LANGE/main/otherfile/icon.png" alt="ba-icon">
   </a>
 
 ***⚡ The internationalization language system used for PotionMC Network ⚡***
