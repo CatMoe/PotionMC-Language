@@ -1,7 +1,7 @@
 ___
 <!--suppress HtmlDeprecatedAttribute -->
 <div align="center">
-  <a href="https://github.com/CatMoe/MoeFilter">
+  <a href="https://github.com/CatMoe/PotionMC_LANGE">
     <img src="https://raw.githubusercontent.com/CatMoe/PotionMC_LANGE/main/otherfile/icon.png" alt="ba-icon">
   </a>
 
