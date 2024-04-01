@@ -29,7 +29,15 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.item.serverselector",
+      "key": "net.miaomoe.ppc.lobby.scoreboard.profile.points",
+      "type": "text",
+      "languages": {
+        "en_GB": "Points",
+        "zh_CN": "点券"
+      }
+    },
+    {
+      "key": "net.miaomoe.ppc.lobby.menu.serverselector",
       "type": "text",
       "languages": {
         "en_GB": "Server Selector",
@@ -53,7 +61,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.item.Cosmetic",
+      "key": "net.miaomoe.ppc.lobby.item.cosmetic",
       "type": "text",
       "languages": {
         "en_GB": "Cosmetic & Store",
@@ -91,7 +99,250 @@
         "en_GB": "(Hold to Use)",
         "zh_CN": "(手持使用)"
       }
+    },
+    {
+      "key": "net.miaomoe.ppc.lobby.tab.commonhead",
+      "type": "text",
+      "languages": {
+        "en_GB": "You are in",
+        "zh_CN": "您当前正在链接到"
+      }
+    },
+    {
+      "key": "net.miaomoe.ppc.lobby.tab.commonheadmid",
+      "type": "text",
+      "languages": {
+        "en_GB": "on",
+        "zh_CN": "在"
+      }
+    },
+    {
+      "key": "net.miaomoe.ppc.lobby.tab.sid",
+      "type": "text",
+      "languages": {
+        "en_GB": "Lobby",
+        "zh_CN": "主大厅"
+      }
+    },
+    {
+      "key": "net.miaomoe.ppc.lobby.tab.ip",
+      "type": "text",
+      "languages": {
+        "en_GB": "PotPvP.cc",
+        "zh_CN": "PotPvP.cc"
+      }
+    },
+    {
+      "key": "net.miaomoe.ppc.lobby.tab.commonfooter",
+      "type": "text",
+      "languages": {
+        "en_GB": "Want Ranks or Booster? Visit:",
+        "zh_CN": "想获取会员和增益？ 请访问:"
+      }
+    },
+    {
+      "key": "net.miaomoe.ppc.lobby.tab.storeurl",
+      "type": "text",
+      "languages": {
+        "en_GB": "store.PotPvP.cc",
+        "zh_CN": "store.PotPvP.cc"
+      }
+    },
+    {
+      "key": "net.miaomoe.ppc.lobby.tab.totalonline",
+      "type": "text",
+      "languages": {
+        "en_GB": "Total online",
+        "zh_CN": "总在线人数"
+      }
+    },
+    {
+      "key": "net.miaomoe.ppc.lobby.tab.online",
+      "type": "text",
+      "languages": {
+        "en_GB": "Online",
+        "zh_CN": "在线人数"
+      }
+    },
+    {
+      "key": "net.miaomoe.ppc.lobby.menu.players",
+      "type": "text",
+      "languages": {
+        "en_GB": "Player",
+        "zh_CN": "在线人数"
+      }
+    },
+    {
+      "key": "net.miaomoe.ppc.lobby.menu.state",
+      "type": "text",
+      "languages": {
+        "en_GB": "State",
+        "zh_CN": "状态"
+      }
+    },
+    {
+      "key": "net.miaomoe.ppc.lobby.menu.version",
+      "type": "text",
+      "languages": {
+        "en_GB": "Version",
+        "zh_CN": "版本"
+      }
+    },
+    {
+      "key": "net.miaomoe.ppc.lobby.menu.trueon",
+      "type": "text",
+      "languages": {
+        "en_GB": "Online",
+        "zh_CN": "开启"
+      }
+    },
+    {
+      "key": "net.miaomoe.ppc.lobby.menu.trueoff",
+      "type": "text",
+      "languages": {
+        "en_GB": "Offline",
+        "zh_CN": "关闭"
+      }
+    },
+    {
+      "key": "net.miaomoe.ppc.lobby.menu.clickqueue",
+      "type": "text",
+      "languages": {
+        "en_GB": "● Click to Connect ✈",
+        "zh_CN": "● 点击连接到服务器 ✈"
+      }
+    },
+    {
+      "key": "net.miaomoe.ppc.lobby.menu.name.practice",
+      "type": "text",
+      "languages": {
+        "en_GB": "Practice",
+        "zh_CN": "竞技场"
+      }
+    },
+    {
+      "key": "net.miaomoe.ppc.lobby.menu.name.mlgrush",
+      "type": "text",
+      "languages": {
+        "en_GB": "MLGRush",
+        "zh_CN": "极速击退起床"
+      }
+    },
+    {
+      "key": "net.miaomoe.ppc.lobby.menu.name.souppvp",
+      "type": "text",
+      "languages": {
+        "en_GB": "SoupPvP",
+        "zh_CN": "自由带蘑菇煲职业战斗"
+      }
+    },
+    {
+      "key": "net.miaomoe.ppc.lobby.menu.name.comingsoon",
+      "type": "text",
+      "languages": {
+        "en_GB": "Coming Soon",
+        "zh_CN": "未来可期"
+      }
+    },
+    {
+      "key": "net.miaomoe.ppc.lobby.menu.name.season",
+      "type": "text",
+      "languages": {
+        "en_GB": "Season",
+        "zh_CN": "赛季"
+      }
+    },
+    {
+      "key": "net.miaomoe.ppc.lobby.menu.name.noseason",
+      "type": "text",
+      "languages": {
+        "en_GB": "No Season",
+        "zh_CN": "当前未开放新赛季"
+      }
+    },
+    {
+      "key": "net.miaomoe.ppc.lobby.menu.name.allowdc",
+      "type": "text",
+      "languages": {
+        "en_GB": "This server allow DC",
+        "zh_CN": "此服务器允许拖动点击"
+      }
+    },
+    {
+      "key": "net.miaomoe.ppc.lobby.menu.name.seasonhosting",
+      "type": "text",
+      "languages": {
+        "en_GB": "New Season is hosting",
+        "zh_CN": "新赛季正在开放中"
+      }
+    },
+    {
+      "key": "net.miaomoe.ppc.lobby.menu.name.menutitle",
+      "type": "text",
+      "languages": {
+        "en_GB": "Server selecter",
+        "zh_CN": "服务器选择器"
+      }
+    },
+    {
+      "key": "net.miaomoe.ppc.lobby.menu.myprofile",
+      "type": "text",
+      "languages": {
+        "en_GB": "My Profile",
+        "zh_CN": "我的账户"
+      }
+    },{
+      "key": "net.miaomoe.ppc.lobby.menu.profileinfo",
+      "type": "text",
+      "languages": {
+        "en_GB": "Profile Info",
+        "zh_CN": "账户信息"
+      }
+    },{
+      "key": "net.miaomoe.ppc.lobby.menu.level",
+      "type": "text",
+      "languages": {
+        "en_GB": "Level",
+        "zh_CN": "等级"
+      }
+    },{
+      "key": "net.miaomoe.ppc.lobby.menu.rank",
+      "type": "text",
+      "languages": {
+        "en_GB": "Rank",
+        "zh_CN": "权限"
+      }
+    },{
+      "key": "net.miaomoe.ppc.lobby.menu.points",
+      "type": "text",
+      "languages": {
+        "en_GB": "Points",
+        "zh_CN": "点券"
+      }
+    },
+    {
+      "key": "net.miaomoe.ppc.lobby.menu.punishhistory",
+      "type": "text",
+      "languages": {
+        "en_GB": "Punishment History",
+        "zh_CN": "处罚历史记录"
+      }
+    },
+    {
+      "key": "net.miaomoe.ppc.lobby.menu.clicktoview",
+      "type": "text",
+      "languages": {
+        "en_GB": "Click to view",
+        "zh_CN": "点击查看"
+      }
+    },
+    {
+      "key": "net.miaomoe.ppc.lobby.menu.clicktoviewurl",
+      "type": "text",
+      "languages": {
+        "en_GB": "Click to view store url",
+        "zh_CN": "点击查看商店链接"
+      }
     }
-
   ]
 }
