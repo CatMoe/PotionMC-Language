@@ -321,6 +321,14 @@
       }
     },
     {
+      "key": "ppc.lobby.menu.selectlanguage",
+      "type": "text",
+      "languages": {
+        "en_GB": "Select language",
+        "zh_CN": "选择服务器显示语言"
+      }
+    },
+    {
       "key": "ppc.lobby.menu.punishhistory",
       "type": "text",
       "languages": {
