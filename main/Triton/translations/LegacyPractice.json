@@ -1,0 +1,208 @@
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "ppc.prac-1.sb.spawn.title",
+      "type": "text",
+      "languages": {
+        "en_GB": "Info",
+        "zh_CN": "♦竞技场信息♦"
+      }
+    },
+    {
+      "key": "ppc.prac-1.sb.spawn.online",
+      "type": "text",
+      "languages": {
+        "en_GB": "Online",
+        "zh_CN": "在线"
+      }
+    },
+    {
+      "key": "ppc.prac-1.sb.spawn.inqueue",
+      "type": "text",
+      "languages": {
+        "en_GB": "In Queue",
+        "zh_CN": "匹配中"
+      }
+    },
+    {
+      "key": "ppc.prac-1.sb.spawn.infight",
+      "type": "text",
+      "languages": {
+        "en_GB": "In Fight",
+        "zh_CN": "战斗中"
+      }
+    },
+    {
+      "key": "ppc.prac-1.sb.ffa.title",
+      "type": "text",
+      "languages": {
+        "en_GB": "FFA",
+        "zh_CN": "♦自由对战♦"
+      }
+    },
+    {
+      "key": "ppc.prac-1.sb.ffa.kills",
+      "type": "text",
+      "languages": {
+        "en_GB": "Kills",
+        "zh_CN": "击杀数"
+      }
+    },
+    {
+      "key": "ppc.prac-1.sb.ffa.deaths",
+      "type": "text",
+      "languages": {
+        "en_GB": "Deaths",
+        "zh_CN": "死亡数"
+      }
+    },
+    {
+      "key": "ppc.prac-1.sb.ffa.killstreak",
+      "type": "text",
+      "languages": {
+        "en_GB": "Kill Streak",
+        "zh_CN": "连杀数"
+      }
+    },
+    {
+      "key": "ppc.prac-1.sb.ffa.combat",
+      "type": "text",
+      "languages": {
+        "en_GB": "Combat",
+        "zh_CN": "战斗状态"
+      }
+    },
+    {
+      "key": "ppc.prac-1.sb.ffa.ping",
+      "type": "text",
+      "languages": {
+        "en_GB": "Ping",
+        "zh_CN": "延迟"
+      }
+    },
+    {
+      "key": "ppc.prac-1.sb.queue.title",
+      "type": "text",
+      "languages": {
+        "en_GB": "Queue",
+        "zh_CN": "♦匹配中♦"
+      }
+    },
+    {
+      "key": "ppc.prac-1.sb.queue.kit",
+      "type": "text",
+      "languages": {
+        "en_GB": "Kit",
+        "zh_CN": "模式"
+      }
+    },
+    {
+      "key": "ppc.prac-1.sb.queue.time",
+      "type": "text",
+      "languages": {
+        "en_GB": "Time",
+        "zh_CN": "时间"
+      }
+    },
+    {
+      "key": "ppc.prac-1.sb.queue.pingrange",
+      "type": "text",
+      "languages": {
+        "en_GB": "Ping Range",
+        "zh_CN": "延迟区间"
+      }
+    },
+    {
+      "key": "ppc.prac-1.sb.party.title",
+      "type": "text",
+      "languages": {
+        "en_GB": "Party",
+        "zh_CN": "♦队伍信息♦"
+      }
+    },
+    {
+      "key": "ppc.prac-1.sb.party.leader",
+      "type": "text",
+      "languages": {
+        "en_GB": "Leader",
+        "zh_CN": "队长"
+      }
+    },
+    {
+      "key": "ppc.prac-1.sb.party.members",
+      "type": "text",
+      "languages": {
+        "en_GB": "Members",
+        "zh_CN": "队伍人数"
+      }
+    },
+    {
+      "key": "ppc.prac-1.tab.commonhead",
+      "type": "text",
+      "languages": {
+        "en_GB": "You are in",
+        "zh_CN": "您当前正在链接到"
+      }
+    },
+    {
+      "key": "ppc.prac-1.tab.commonheadmid",
+      "type": "text",
+      "languages": {
+        "en_GB": "on",
+        "zh_CN": "在"
+      }
+    },
+    {
+      "key": "ppc.prac-1.tab.sid",
+      "type": "text",
+      "languages": {
+        "en_GB": "legacypractice",
+        "zh_CN": "1.7+ 竞技场"
+      }
+    },
+    {
+      "key": "ppc.prac-1.tab.ip",
+      "type": "text",
+      "languages": {
+        "en_GB": "PotPvP.cc",
+        "zh_CN": "PotPvP.cc"
+      }
+    },
+    {
+      "key": "ppc.prac-1.tab.commonfooter",
+      "type": "text",
+      "languages": {
+        "en_GB": "Want Ranks or Booster? Visit:",
+        "zh_CN": "想获取会员和增益？ 请访问:"
+      }
+    },
+    {
+      "key": "ppc.prac-1.tab.storeurl",
+      "type": "text",
+      "languages": {
+        "en_GB": "store.PotPvP.cc",
+        "zh_CN": "store.PotPvP.cc"
+      }
+    },
+    {
+      "key": "ppc.prac-1.tab.totalonline",
+      "type": "text",
+      "languages": {
+        "en_GB": "Total online",
+        "zh_CN": "总在线人数"
+      }
+    },
+    {
+      "key": "ppc.prac-1.tab.online",
+      "type": "text",
+      "languages": {
+        "en_GB": "Online",
+        "zh_CN": "在线人数"
+      }
+    }
+  ]
+}

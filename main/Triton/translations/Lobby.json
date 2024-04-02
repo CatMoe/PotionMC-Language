@@ -5,7 +5,7 @@
   },
   "items": [
     {
-      "key": "net.miaomoe.ppc.lobby.scoreboard.profile",
+      "key": "ppc.lobby.scoreboard.profile",
       "type": "text",
       "languages": {
         "en_GB": "Profile",
@@ -13,7 +13,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.scoreboard.profile.level",
+      "key": "ppc.lobby.scoreboard.profile.level",
       "type": "text",
       "languages": {
         "en_GB": "Level",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.scoreboard.profile.rank",
+      "key": "ppc.lobby.scoreboard.profile.rank",
       "type": "text",
       "languages": {
         "en_GB": "Rank",
@@ -29,7 +29,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.scoreboard.profile.points",
+      "key": "ppc.lobby.scoreboard.profile.points",
       "type": "text",
       "languages": {
         "en_GB": "Points",
@@ -37,7 +37,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.item.serverselector",
+      "key": "ppc.lobby.item.serverselector",
       "type": "text",
       "languages": {
         "en_GB": "Server Selector",
@@ -45,7 +45,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.item.profile",
+      "key": "ppc.lobby.item.profile",
       "type": "text",
       "languages": {
         "en_GB": "My Profile",
@@ -53,7 +53,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.item.pvpsword",
+      "key": "ppc.lobby.item.pvpsword",
       "type": "text",
       "languages": {
         "en_GB": "PvP Sword",
@@ -61,7 +61,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.item.cosmetic",
+      "key": "ppc.lobby.item.cosmetic",
       "type": "text",
       "languages": {
         "en_GB": "Cosmetic & Store",
@@ -69,7 +69,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.item.teleportbow",
+      "key": "ppc.lobby.item.teleportbow",
       "type": "text",
       "languages": {
         "en_GB": "Teleport Bow",
@@ -77,7 +77,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.item.hideplayer",
+      "key": "ppc.lobby.item.hideplayer",
       "type": "text",
       "languages": {
         "en_GB": "Hide Players",
@@ -85,7 +85,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.item.g-rightclick",
+      "key": "ppc.lobby.item.g-rightclick",
       "type": "text",
       "languages": {
         "en_GB": "(Right Click)",
@@ -93,7 +93,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.item.g-holdtouse",
+      "key": "ppc.lobby.item.g-holdtouse",
       "type": "text",
       "languages": {
         "en_GB": "(Hold to Use)",
@@ -101,7 +101,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.tab.commonhead",
+      "key": "ppc.lobby.tab.commonhead",
       "type": "text",
       "languages": {
         "en_GB": "You are in",
@@ -109,7 +109,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.tab.commonheadmid",
+      "key": "ppc.lobby.tab.commonheadmid",
       "type": "text",
       "languages": {
         "en_GB": "on",
@@ -117,7 +117,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.tab.sid",
+      "key": "ppc.lobby.tab.sid",
       "type": "text",
       "languages": {
         "en_GB": "Lobby",
@@ -125,7 +125,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.tab.ip",
+      "key": "ppc.lobby.tab.ip",
       "type": "text",
       "languages": {
         "en_GB": "PotPvP.cc",
@@ -133,7 +133,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.tab.commonfooter",
+      "key": "ppc.lobby.tab.commonfooter",
       "type": "text",
       "languages": {
         "en_GB": "Want Ranks or Booster? Visit:",
@@ -141,7 +141,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.tab.storeurl",
+      "key": "ppc.lobby.tab.storeurl",
       "type": "text",
       "languages": {
         "en_GB": "store.PotPvP.cc",
@@ -149,7 +149,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.tab.totalonline",
+      "key": "ppc.lobby.tab.totalonline",
       "type": "text",
       "languages": {
         "en_GB": "Total online",
@@ -157,7 +157,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.tab.online",
+      "key": "ppc.lobby.tab.online",
       "type": "text",
       "languages": {
         "en_GB": "Online",
@@ -165,7 +165,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.menu.players",
+      "key": "ppc.lobby.menu.players",
       "type": "text",
       "languages": {
         "en_GB": "Player",
@@ -173,7 +173,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.menu.state",
+      "key": "ppc.lobby.menu.state",
       "type": "text",
       "languages": {
         "en_GB": "State",
@@ -181,7 +181,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.menu.version",
+      "key": "ppc.lobby.menu.version",
       "type": "text",
       "languages": {
         "en_GB": "Version",
@@ -189,7 +189,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.menu.trueon",
+      "key": "ppc.lobby.menu.trunon",
       "type": "text",
       "languages": {
         "en_GB": "Online",
@@ -197,7 +197,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.menu.trueoff",
+      "key": "ppc.lobby.menu.trunoff",
       "type": "text",
       "languages": {
         "en_GB": "Offline",
@@ -205,7 +205,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.menu.clickqueue",
+      "key": "ppc.lobby.menu.clickqueue",
       "type": "text",
       "languages": {
         "en_GB": "● Click to Connect ✈",
@@ -213,7 +213,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.menu.name.practice",
+      "key": "ppc.lobby.menu.name.practice",
       "type": "text",
       "languages": {
         "en_GB": "Practice",
@@ -221,7 +221,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.menu.name.mlgrush",
+      "key": "ppc.lobby.menu.name.mlgrush",
       "type": "text",
       "languages": {
         "en_GB": "MLGRush",
@@ -229,7 +229,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.menu.name.souppvp",
+      "key": "ppc.lobby.menu.name.souppvp",
       "type": "text",
       "languages": {
         "en_GB": "SoupPvP",
@@ -237,7 +237,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.menu.name.comingsoon",
+      "key": "ppc.lobby.menu.name.comingsoon",
       "type": "text",
       "languages": {
         "en_GB": "Coming Soon",
@@ -245,7 +245,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.menu.name.season",
+      "key": "ppc.lobby.menu.name.season",
       "type": "text",
       "languages": {
         "en_GB": "Season",
@@ -253,7 +253,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.menu.name.noseason",
+      "key": "ppc.lobby.menu.name.noseason",
       "type": "text",
       "languages": {
         "en_GB": "No Season",
@@ -261,7 +261,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.menu.name.allowdc",
+      "key": "ppc.lobby.menu.name.allowdc",
       "type": "text",
       "languages": {
         "en_GB": "This server allow DC",
@@ -269,7 +269,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.menu.name.seasonhosting",
+      "key": "ppc.lobby.menu.name.seasonhosting",
       "type": "text",
       "languages": {
         "en_GB": "New Season is hosting",
@@ -277,7 +277,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.menu.name.menutitle",
+      "key": "ppc.lobby.menu.name.menutitle",
       "type": "text",
       "languages": {
         "en_GB": "Server selecter",
@@ -285,35 +285,35 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.menu.myprofile",
+      "key": "ppc.lobby.menu.myprofile",
       "type": "text",
       "languages": {
         "en_GB": "My Profile",
         "zh_CN": "我的账户"
       }
     },{
-      "key": "net.miaomoe.ppc.lobby.menu.profileinfo",
+      "key": "ppc.lobby.menu.profileinfo",
       "type": "text",
       "languages": {
         "en_GB": "Profile Info",
         "zh_CN": "账户信息"
       }
     },{
-      "key": "net.miaomoe.ppc.lobby.menu.level",
+      "key": "ppc.lobby.menu.level",
       "type": "text",
       "languages": {
         "en_GB": "Level",
         "zh_CN": "等级"
       }
     },{
-      "key": "net.miaomoe.ppc.lobby.menu.rank",
+      "key": "ppc.lobby.menu.rank",
       "type": "text",
       "languages": {
         "en_GB": "Rank",
         "zh_CN": "权限"
       }
     },{
-      "key": "net.miaomoe.ppc.lobby.menu.points",
+      "key": "ppc.lobby.menu.points",
       "type": "text",
       "languages": {
         "en_GB": "Points",
@@ -321,7 +321,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.menu.punishhistory",
+      "key": "ppc.lobby.menu.punishhistory",
       "type": "text",
       "languages": {
         "en_GB": "Punishment History",
@@ -329,7 +329,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.menu.clicktoview",
+      "key": "ppc.lobby.menu.clicktoview",
       "type": "text",
       "languages": {
         "en_GB": "Click to view",
@@ -337,7 +337,7 @@
       }
     },
     {
-      "key": "net.miaomoe.ppc.lobby.menu.clicktoviewurl",
+      "key": "ppc.lobby.menu.clicktoviewurl",
       "type": "text",
       "languages": {
         "en_GB": "Click to view store url",
