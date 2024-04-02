@@ -141,6 +141,118 @@
       }
     },
     {
+      "key": "shot.title",
+      "type": "text",
+      "languages": {
+        "en_GB": "Match",
+        "zh_CN": "♦比赛信息♦"
+      }
+    },
+    {
+      "key": "shot.ended",
+      "type": "text",
+      "languages": {
+        "en_GB": "Match Ended",
+        "zh_CN": "比赛结束"
+      }
+    },
+    {
+      "key": "shot.rival",
+      "type": "text",
+      "languages": {
+        "en_GB": "Rival",
+        "zh_CN": "对手"
+      }
+    },
+    {
+      "key": "shot.duration",
+      "type": "text",
+      "languages": {
+        "en_GB": "Duration",
+        "zh_CN": "持续时间"
+      }
+    },
+    {
+      "key": "shot.ping",
+      "type": "text",
+      "languages": {
+        "en_GB": "Ping",
+        "zh_CN": "延迟"
+      }
+    },
+    {
+      "key": "shot.boxing.title",
+      "type": "text",
+      "languages": {
+        "en_GB": "Hits",
+        "zh_CN": "♦击中次数♦"
+      }
+    },
+    {
+      "key": "shot.boxing.you",
+      "type": "text",
+      "languages": {
+        "en_GB": "You",
+        "zh_CN": "你的分数"
+      }
+    },
+    {
+      "key": "shot.boxing.them",
+      "type": "text",
+      "languages": {
+        "en_GB": "Them",
+        "zh_CN": "对方分数"
+      }
+    },
+    {
+      "key": "ppc.prac-1.title.inmatch.winner",
+      "type": "text",
+      "languages": {
+        "en_GB": "VICTORY",
+        "zh_CN": "胜利"
+      }
+    },
+    {
+      "key": "ppc.prac-1.title.inmatch.defeat",
+      "type": "text",
+      "languages": {
+        "en_GB": "DEFEAT",
+        "zh_CN": "失败"
+      }
+    },
+    {
+      "key": "ppc.prac-1.title.inmatch.ended",
+      "type": "text",
+      "languages": {
+        "en_GB": "EXPIRED",
+        "zh_CN": "比赛结束"
+      }
+    },
+    {
+      "key": "ppc.prac-1.subtitle.inmatch.winner",
+      "type": "text",
+      "languages": {
+        "en_GB": "won the Match",
+        "zh_CN": "赢得了比赛"
+      }
+    },
+    {
+      "key": "ppc.prac-1.subtitle.inmatch.ended",
+      "type": "text",
+      "languages": {
+        "en_GB": "No body won the match",
+        "zh_CN": "没有人在这场比赛中胜利"
+      }
+    },
+    {
+      "key": "ppc.prac-1.tab.online",
+      "type": "text",
+      "languages": {
+        "en_GB": "Online",
+        "zh_CN": "在线人数"
+      }
+    },
+    {
       "key": "ppc.prac-1.tab.commonhead",
       "type": "text",
       "languages": {
