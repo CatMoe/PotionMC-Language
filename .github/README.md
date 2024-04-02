@@ -2,7 +2,7 @@ ___
 <!--suppress HtmlDeprecatedAttribute -->
 <div align="center">
   <a href="https://github.com/CatMoe/PotionMC_LANGE">
-    <img src="https://raw.githubusercontent.com/CatMoe/PotionMC_LANGE/main/otherfile/icon.png" alt="ba-icon">
+    <img src="https://raw.githubusercontent.com/CatMoe/PotionMC-Language/main/.github/icon.png" alt="ba-icon">
   </a>
 
 ***⚡ The internationalization language system used for PotionMC Network ⚡***
@@ -19,8 +19,8 @@ ___
 - Basic functions provided by Triton. Run in Velocity(PotionMC's Proxy)
 - Supported translations: English (Default), Simplified Chinese
 #### How can I contribute to this project? :
-- 1. Fork: Frist. Fork this [project](https://github.com/CatMoe/PotionMC_LANGE/fork) and submit your changes in your fork repository
-- 2. Pull Request: After you complete your submission, please go [Pull Request](https://github.com/CatMoe/PotionMC_LANGE/pulls) to create a new pull request. and wait admin Merge to main repository
+- Fork: First. Fork this [project](https://github.com/CatMoe/PotionMC_LANGE/fork) and submit your changes in your fork repository
+- Pull Request: After you complete your submission, please go [Pull Request](https://github.com/CatMoe/PotionMC_LANGE/pulls) to create a new pull request. and wait admin Merge to main repository
 
 ---
 
